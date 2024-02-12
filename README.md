@@ -1,4 +1,4 @@
-# Project Title
+# Nike
 
 I have created a beautiful modern Nike website landing page using React and Tailwind.
 
