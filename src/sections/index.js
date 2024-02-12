@@ -2,4 +2,15 @@ import Hero from "./Hero";
 import PopularProducts from "./PopularProducts";
 import SuperQuality from "./SuperQuality";
 import Service from "./Services";
-export { Hero, PopularProducts, SuperQuality, Service };
+import SpecialOffer from "./SpecialOffer";
+import CustomerReviews from "./CustomerReviews";
+import Subscribe from "./Subscribe";
+export {
+  Hero,
+  PopularProducts,
+  SuperQuality,
+  Service,
+  SpecialOffer,
+  CustomerReviews,
+  Subscribe,
+};
